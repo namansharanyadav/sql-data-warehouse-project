@@ -113,3 +113,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm Naman Sharan Yadav 👋
 💻 Aspiring Data Scientist | Skilled in Python and libraries, Excel, MySQL, Tableau, or Power BI 🚀
 I'm passionate about transforming data into actionable insights and continuously learning new tools to solve real-world problems through data-driven solutions.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharan-yadav/)
